@@ -1,4 +1,4 @@
-# colors [![Npm]](https://www.npmjs.com/package/ncol)
+# Colors [![GoDoc]()](https://www.npmjs.com/package/ncol) [![Npm]](https://www.npmjs.com/package/ncol)
 >node控制台颜色打印
 
 ## 安装
