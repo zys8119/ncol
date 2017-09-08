@@ -12,7 +12,7 @@ npm i colors
 >例子
 
 具体方法及配置请查看源[代码](colors.js)
-```angular2html
+```javascript
 const colors = require("./colors");
 console.log(colors)
 colors
@@ -74,6 +74,12 @@ colors
     .newcolor("我是newcolor，一个新定义的颜色")
     .newcolor2("我是newcolor2，一个新定义的颜色")
     .log("-----------------");
+```
 <img width="250" src="/example1.png">
 <img width="250" src="/example2.png">
-```
+<img width="250" src="./example1.png">
+<img width="250" src="./example2.png">
+![alt tag](/example1.png)
+![alt tag](./example2.png)
+![alt tag](/example1.png)
+![alt tag](/example1.png)
