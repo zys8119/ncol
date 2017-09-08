@@ -1,4 +1,4 @@
-# Colors [![](https://img.shields.io/badge/npm-install-a.svg?colorB=ff0000&style=flat-square)](https://www.npmjs.com/package/ncol)
+# Colors [![npm](https://img.shields.io/badge/npm-install-zys8119.svg?colorB=cb3837&style=flat-square)](https://www.npmjs.com/package/ncol)  [![github](https://img.shields.io/badge/npm-install-zys8119.svg?colorB=000000&style=flat-square)](https://github.com/zys8119/ncol)
 >node控制台颜色打印
 
 ## 安装
