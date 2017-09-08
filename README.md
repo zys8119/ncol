@@ -4,7 +4,7 @@
 ## 安装
 
 ```angular2html
-npm i colors
+npm i ncol
 ```
 
 ## 教程
