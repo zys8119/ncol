@@ -1,6 +1,4 @@
-# colors
-
-[![NPM version][npm-image]][npm-url]
+# colors [![npm](https://www.npmjs.com/package/ncol)
 >node控制台颜色打印
 
 ## 安装
@@ -79,4 +77,3 @@ colors
 <img width="250" src="/example1.png">
 <img width="250" src="/example2.png">
 ```
-[npm-url]: https://www.npmjs.com/package/ncol
