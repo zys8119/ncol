@@ -1,4 +1,7 @@
 # Colors [![GoDoc]()](https://www.npmjs.com/package/ncol) [![Npm]](https://www.npmjs.com/package/ncol)
+
+# Color [![GoDoc](https://godoc.org/github.com/fatih/color?status.svg)](https://godoc.org/github.com/fatih/color) [![Build Status](https://img.shields.io/travis/fatih/color.svg?style=flat-square)](https://travis-ci.org/fatih/color)
+
 >node控制台颜色打印
 
 ## 安装
