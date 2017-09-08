@@ -75,11 +75,6 @@ colors
     .newcolor2("我是newcolor2，一个新定义的颜色")
     .log("-----------------");
 ```
-<img width="250" src="/example1.png">
-<img width="250" src="/example2.png">
-<img width="250" src="./example1.png">
-<img width="250" src="./example2.png">
-![alt tag](/example1.png)
-![alt tag](./example2.png)
-![alt tag](/example1.png)
-![alt tag](/example1.png)
+<img width="50%" style="float: left;" src="/example1.png">
+<img width="50%" style="float: left;" src="/example2.png">
+adasdas
