@@ -11,7 +11,6 @@ npm i colors
 
 >例子
 
-具体方法及配置请查看源[代码](colors.js)
 ```javascript
 const colors = require("./colors");
 console.log(colors)
@@ -75,6 +74,11 @@ colors
     .newcolor2("我是newcolor2，一个新定义的颜色")
     .log("-----------------");
 ```
-<img width="50%" style="float: left;" src="/example1.png">
-<img width="50%" style="float: left;" src="/example2.png">
-adasdas
+
+>效果如下
+
+<img width="100%" style="float: left;" src="/example1.png">
+<img width="100%" style="float: left;" src="/example2.png">
+
+
+>#具体方法及配置请查看源[代码](colors.js)
