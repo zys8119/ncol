@@ -1,6 +1,9 @@
-# Colors [![GoDoc]()](https://www.npmjs.com/package/ncol) [![Npm]](https://www.npmjs.com/package/ncol)
+# Colors 
+[![GoDoc](https://godoc.org/github.com/fatih/color?status.svg)](https://godoc.org/github.com/fatih/color) 
+[![Npm](https://godoc.org/github.com/fatih/color?status.svg)](https://www.npmjs.com/package/ncol)
+[![GoDoc](https://godoc.org/github.com/fatih/color?status.svg)](https://godoc.org/github.com/fatih/color) 
 
-# Color [![GoDoc](https://godoc.org/github.com/fatih/color?status.svg)](https://godoc.org/github.com/fatih/color) [![Build Status](https://img.shields.io/travis/fatih/color.svg?style=flat-square)](https://travis-ci.org/fatih/color)
+# Color [![Build Status](https://img.shields.io/travis/fatih/color.svg?style=flat-square)](https://travis-ci.org/fatih/color)
 
 >node控制台颜色打印
 
