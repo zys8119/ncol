@@ -39,17 +39,17 @@ colors.prototype = {
     //注册相应色值的方法
     init:function (colorList = {}) {
         for(var i in colorList){
-            (function (color) {
+            (function (color,i) {
                 colors.prototype[i] = function (Str = "") {
                     //判断是否多彩模式
                     if(this.colorBool){
                         this.colorTxt += "\x1b["+color+";1m" + Str + "\x1b[0;0;1m";
                     }else{
-                        console.log("\x1b["+color+";1m",Str,"\x1b[0;0;0m");
+                        console.log("\x1b["+color+";1m",Str,"\x1b[0;0;1m");
                     };
                     return this;
                 };
-            })(colorList[i]);
+            })(colorList[i],i);
         };
     },
     //扩展颜色
