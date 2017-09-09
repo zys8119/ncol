@@ -1,9 +1,9 @@
 {
   "name": "ncol",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "node控制台颜色打印",
-  "main": "colors.js",
-  "bin": "colors.js",
+  "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
