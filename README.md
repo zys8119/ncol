@@ -1,4 +1,5 @@
 # Colors [![npm](https://img.shields.io/badge/npm-Install-zys8119.svg?colorB=cb3837&style=flat-square)](https://www.npmjs.com/package/ncol)  [![github](https://img.shields.io/badge/github-<Code>-zys8119.svg?colorB=000000&style=flat-square)](https://github.com/zys8119/ncol)
+
 >node控制台颜色打印
 
 ## 安装
@@ -81,4 +82,4 @@ colors
 <img width="100%" src="https://raw.githubusercontent.com/zys8119/ncol/master/example2.png">
 
 
-###具体方法及配置请查看[源代码](https://github.com/zys8119/ncol/blob/master/index.js)
+###### 具体方法及配置请查看[源代码](https://github.com/zys8119/ncol/blob/master/index.js)
