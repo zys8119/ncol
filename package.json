@@ -1,6 +1,6 @@
 {
   "name": "ncol",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "node控制台颜色打印",
   "main": "colors.js",
   "bin": "colors.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zys8119/colors.git"
+    "url": "git+https://github.com/zys8119/ncol.git"
   },
   "author": "张云山",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zys8119/colors/issues"
+    "url": "https://github.com/zys8119/ncol/issues"
   },
-  "homepage": "https://github.com/zys8119/colors#readme",
+  "homepage": "https://github.com/zys8119/ncol#readme",
   "dependencies": {
   }
 }

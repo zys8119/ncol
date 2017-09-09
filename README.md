@@ -77,8 +77,8 @@ colors
 >效果如下
 说明（各平台可能有所不同，仅供参考。本效果是Windows平台）
 
-<img width="100%" src="/example1.png">
-<img width="100%" src="/example2.png">
+<img width="100%" src="https://raw.githubusercontent.com/zys8119/ncol/master/example1.png">
+<img width="100%" src="https://raw.githubusercontent.com/zys8119/ncol/master/example2.png">
 
 
 >#具体方法及配置请查看源[代码](colors.js)
