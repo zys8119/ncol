@@ -81,4 +81,4 @@ colors
 <img width="100%" src="https://raw.githubusercontent.com/zys8119/ncol/master/example2.png">
 
 
->#具体方法及配置请查看[源代码](https://github.com/zys8119/ncol/blob/master/index.js)
+###具体方法及配置请查看[源代码](https://github.com/zys8119/ncol/blob/master/index.js)
