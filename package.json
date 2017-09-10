@@ -1,6 +1,6 @@
 {
   "name": "ncol",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "node控制台颜色打印",
   "main": "index.js",
   "bin": "index.js",

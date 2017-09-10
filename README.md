@@ -1,4 +1,4 @@
-# Colors [![npm](https://img.shields.io/badge/npm-Install-zys8119.svg?colorB=cb3837&style=flat-square)](https://www.npmjs.com/package/ncol)  [![github](https://img.shields.io/badge/github-<Code>-zys8119.svg?colorB=000000&style=flat-square)](https://github.com/zys8119/ncol)
+# ncol [![npm](https://img.shields.io/badge/npm-Install-zys8119.svg?colorB=cb3837&style=flat-square)](https://www.npmjs.com/package/ncol)  [![github](https://img.shields.io/badge/github-<Code>-zys8119.svg?colorB=000000&style=flat-square)](https://github.com/zys8119/ncol)
 
 >node控制台颜色打印
 
@@ -13,8 +13,8 @@ npm i ncol
 >例子
 
 ```javascript
-const colors = require("./colors");
-colors
+const ncol = require("ncol");
+ncol
     .log("-----------------")
     .log("我是每行只有一种颜色")
     .bold("0;1")
